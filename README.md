@@ -15,7 +15,7 @@ where `u` is seismic velocity of a vertical component seismogram, each hour from
 
 <img src="https://render.githubusercontent.com/render/math?math=P = \median(u(n_0)^2, u(n_1)^2 , ..., u(n_N)^2)">
 
-Here is the result: 
+Here is the result, in units of decibels (10*log10(P)): 
 
 ![Enshi](IC.ENH.png)
 
